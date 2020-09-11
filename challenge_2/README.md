@@ -19,10 +19,7 @@
 you can run individual switches like  
 ```
 ./metada.sh amiid
-'''
-
-
-# Description
+```
 
 # Future version
   could run using power shell - Get-EC2InstanceMetadata Cmdlet in apowershell script rather than procesing curl url with linked ip-address
